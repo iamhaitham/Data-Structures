@@ -15,7 +15,8 @@ public class Program
 }
 
 public class Solution {
-    public bool IsPalindrome(string s) {
+    public bool IsPalindrome(string s) 
+	{
         string updatedString = Regex.Replace(s, @"[^a-zA-Z0-9]", "").ToLower();
 
 		for (int i = 0; i < updatedString.Length / 2; i++)

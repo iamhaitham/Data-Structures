@@ -4,9 +4,9 @@ public class Program
 {
 	public static void Main()
 	{
-		Solution solution = new Solution();
+        Solution solution = new Solution();
         Console.WriteLine(solution.TitleToNumber("A")); // 1
-		Console.WriteLine(solution.TitleToNumber("AB")); // 28
+        Console.WriteLine(solution.TitleToNumber("AB")); // 28
         Console.WriteLine(solution.TitleToNumber("ZY")); // 701
         Console.WriteLine(solution.TitleToNumber("AAA")); // 703
     }

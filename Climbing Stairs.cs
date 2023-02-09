@@ -8,8 +8,8 @@ public class Program
 		Solution solution = new Solution();
 		Console.WriteLine(solution.ClimbStairs(0)); // 0
 		Console.WriteLine(solution.ClimbStairs(2)); // 2
-        Console.WriteLine(solution.ClimbStairs(3)); // 3
-        Console.WriteLine(solution.ClimbStairs(6)); // 13
+		Console.WriteLine(solution.ClimbStairs(3)); // 3
+		Console.WriteLine(solution.ClimbStairs(6)); // 13
     }
 }
 
