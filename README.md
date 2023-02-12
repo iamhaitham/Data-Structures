@@ -14,3 +14,6 @@ I use this repository to practice algorithms and data structures to improve my p
 9. [Remove Element](https://leetcode.com/problems/remove-element/)
 10. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 11. [Majority Element](https://leetcode.com/problems/majority-element/)
+
+## Miscellaneous
+1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
