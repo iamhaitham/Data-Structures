@@ -15,6 +15,7 @@ I use this repository to practice algorithms and data structures to improve my p
 10. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 11. [Majority Element](https://leetcode.com/problems/majority-element/)
 12. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+13. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
