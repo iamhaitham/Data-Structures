@@ -16,6 +16,7 @@ I use this repository to practice algorithms and data structures to improve my p
 11. [Majority Element](https://leetcode.com/problems/majority-element/)
 12. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 13. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+14. [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
