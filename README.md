@@ -17,6 +17,10 @@ I use this repository to practice algorithms and data structures to improve my p
 12. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 13. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 14. [Two Sum](https://leetcode.com/problems/two-sum/)
+15. [Big Countries](https://leetcode.com/problems/big-countries/)
+16. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
+17. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
+18. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
