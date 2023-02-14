@@ -21,6 +21,7 @@ I use this repository to practice algorithms and data structures to improve my p
 16. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 17. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
 18. [Detect Capital](https://leetcode.com/problems/detect-capital/)
+19. [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
