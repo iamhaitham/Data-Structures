@@ -23,6 +23,7 @@ I use this repository to practice algorithms and data structures to improve my p
 18. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 19. [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)
 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+21. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
