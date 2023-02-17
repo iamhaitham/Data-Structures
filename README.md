@@ -22,6 +22,7 @@ I use this repository to practice algorithms and data structures to improve my p
 17. [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)
 18. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 19. [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)
+20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
