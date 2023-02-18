@@ -4,11 +4,11 @@ public class Program
     {
         Trie trie = new Trie();
         trie.Insert("apple");
-        trie.Search("apple");   // true
-        trie.Search("app");     // false
-        // trie.StartsWith("app"); // true
+        Console.WriteLine(trie.Search("apple"));   // true
+        Console.WriteLine(trie.Search("app"));     // false
+        Console.WriteLine(trie.StartsWith("app")); // true
         trie.Insert("app");
-        trie.Search("app");     // true
+        Console.WriteLine(trie.Search("app"));     // true
     }
 }
 
@@ -79,5 +79,22 @@ public class Trie
         }
 
         return currentNode.Children[word[^1] - 'a'].IsEndOfWord;
+    }
+    
+    public bool StartsWith(string prefix)
+    {
+        TrieNode currentNode = _root;
+
+        foreach (char character in prefix)
+        {
+            int currentCharacterIndex = character - 'a';
+
+            if (currentNode.Children[currentCharacterIndex] is null)
+                return false;
+
+            currentNode = currentNode.Children[currentCharacterIndex];
+        }
+
+        return true;
     }
 }
