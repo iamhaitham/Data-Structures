@@ -4,11 +4,11 @@ public class Program
     {
         Trie trie = new Trie();
         trie.Insert("apple");
-        // trie.Search("apple");   // true
-        // trie.Search("app");     // false
+        trie.Search("apple");   // true
+        trie.Search("app");     // false
         // trie.StartsWith("app"); // true
         trie.Insert("app");
-        // trie.Search("app");     // true
+        trie.Search("app");     // true
     }
 }
 
@@ -59,5 +59,25 @@ public class Trie
         }
 
         currentNode.IsEndOfWord = true;
+    }
+    
+    public bool Search(string word)
+    {
+        TrieNode currentNode = _root;
+
+        for (int i = 0; i < word.Length; i++)
+        {
+            int currentCharacterIndex = word[i] - 'a';
+
+            if (currentNode.Children[currentCharacterIndex] is null)
+                return false;
+
+            if (i == word.Length - 1)
+                break;
+                
+            currentNode = currentNode.Children[currentCharacterIndex];
+        }
+
+        return currentNode.Children[word[^1] - 'a'].IsEndOfWord;
     }
 }
