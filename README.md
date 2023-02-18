@@ -25,6 +25,7 @@ I use this repository to practice algorithms and data structures to improve my p
 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 21. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 22. [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+23. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
