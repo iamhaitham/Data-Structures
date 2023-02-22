@@ -28,6 +28,7 @@ I use this repository to practice algorithms and data structures to improve my p
 23. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 24. [Plus One](https://leetcode.com/problems/plus-one/description/)
 25. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+26. [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
