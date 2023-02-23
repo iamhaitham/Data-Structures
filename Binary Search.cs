@@ -29,19 +29,12 @@ public class Solution
             else if (nums[maxIndex] == target)
                 return maxIndex;
 
-            if (nums[midIndex] < target)
-            {
-                minIndex = midIndex + 1;
-                midIndex = minIndex + (maxIndex - minIndex) / 2;
-                continue;
-            }
+            midIndex = minIndex + (maxIndex - minIndex) / 2;
 
-            if (nums[midIndex] > target)
-            {
+            if (nums[midIndex] < target)
+                minIndex = midIndex + 1;
+            else if (nums[midIndex] > target)
                 maxIndex = midIndex - 1;
-                midIndex = (maxIndex - minIndex) /2;
-                continue;
-            }
         }
 
         return -1;
