@@ -30,6 +30,7 @@ I use this repository to practice algorithms and data structures to improve my p
 25. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 26. [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 27. [Binary Search](https://leetcode.com/problems/binary-search/)
+28. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
