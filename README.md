@@ -33,7 +33,7 @@ I use this repository to practice algorithms and data structures to improve my p
 28. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 29. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 30. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-
+31. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
