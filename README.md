@@ -36,6 +36,7 @@ I use this repository to practice algorithms and data structures to improve my p
 31. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 32. [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 33. [Design Parking System](https://leetcode.com/problems/design-parking-system/)
+34. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
