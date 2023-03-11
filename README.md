@@ -40,6 +40,7 @@ I use this repository to practice algorithms and data structures to improve my p
 35. [Min Stack](https://leetcode.com/problems/min-stack/)
 36. [Design HashMap](https://leetcode.com/problems/design-hashmap/)
 37. [Design HashSet](https://leetcode.com/problems/design-hashset/)
+38. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
