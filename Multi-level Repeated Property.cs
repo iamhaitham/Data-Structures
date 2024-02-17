@@ -40,7 +40,7 @@ public class Program
 
 		foreach (var name in names)
 		{
-			Console.WriteLine(name);
+			Console.WriteLine(name); // ["C", "Desktop", "NewDocument.docx", "NewTable.xlsx", "NewText.txt", "D"]
 		}
 	}
 }
