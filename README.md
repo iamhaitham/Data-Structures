@@ -43,6 +43,7 @@ I use this repository to practice algorithms and data structures to improve my p
 38. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 39. [Rotate String](https://leetcode.com/problems/rotate-string/)
 40. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+41. [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)
 
 ## Miscellaneous
 1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
